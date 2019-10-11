@@ -1,0 +1,6 @@
+[submodule "gita_child_repo_one"]
+	path = gita_child_repo_one
+	url = https://github.com/Chrishon-Socket/gita_child_repo_one.git
+[submodule "gita_child_repo_two"]
+	path = gita_child_repo_two
+	url = https://github.com/Chrishon-Socket/gita_child_repo_two.git
